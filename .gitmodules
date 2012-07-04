@@ -1,0 +1,21 @@
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "bundle/fugitive"]
+	path = bundle/fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/nodeJS/node.js.vim"]
+	path = bundle/nodeJS/node.js.vim
+	url = git://github.com/vim-scripts/node.js.git
+[submodule "bundle/vim-sourcebeautify"]
+	path = bundle/vim-sourcebeautify
+	url = git://github.com/michalliu/sourcebeautify.vim.git
+[submodule "bundle/jsruntime"]
+	path = bundle/jsruntime
+	url = git://github.com/michalliu/jsruntime.vim.git
+[submodule "bundle/jsoncodecs"]
+	path = bundle/jsoncodecs
+	url = git://github.com/michalliu/jsoncodecs.vim.git
+[submodule "bundle/vim-Tabular"]
+	path = bundle/vim-Tabular
+	url = git://github.com/godlygeek/tabular.git
