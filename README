@@ -1,5 +1,5 @@
 Initialize
-   git clone git@github.com:prettybigmonster/VIM_Config.git    ~/.vim
+   git clone git@github.com:prettybigmonster/vimdotfile.git    ~/.vim
 
 Create SymLinks
    ln -a ~/.vim/.vimrc ~/.vimrc
